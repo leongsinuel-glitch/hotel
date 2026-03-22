@@ -1,23 +1,25 @@
-[
+{
+  "hotels": [
     {
-        "id": 1000,
-        "hotel_name": "Résidence Pierre & Vacances Premium les Crets",
-        "hotel_rating": 8.3,
-        "hotel_to_ski_distance": 6.7,
-        "hotel_cover_image": "cover/1000.jpg"
+      "id": 1000,
+      "hotel_name": "Résidence Pierre & Vacances Premium les Crets",
+      "hotel_rating": 8.3,
+      "hotel_to_ski_distance": 6.7,
+      "hotel_cover_image": "cover/1000.jpg"
     },
     {
-        "id": 1001,
-        "hotel_name": "Duplex - Plein sud - Pied des pistes - 50m2 - Mottaret",
-        "hotel_rating": 9.4,
-        "hotel_to_ski_distance": 6.4,
-        "hotel_cover_image": "cover/1001.jpg"
+      "id": 1001,
+      "hotel_name": "Duplex - Plein sud - Pied des pistes - 50m2 - Mottaret",
+      "hotel_rating": 9.4,
+      "hotel_to_ski_distance": 6.4,
+      "hotel_cover_image": "cover/1001.jpg"
     },
     {
-        "id": 1002,
-        "hotel_name": "Meribel le chalet d'eugénie",
-        "hotel_rating": 7.8,
-        "hotel_to_ski_distance": 0.8,
-        "hotel_cover_image": "cover/1002.jpg"
+      "id": 1002,
+      "hotel_name": "Meribel le chalet d'eugénie",
+      "hotel_rating": 7.8,
+      "hotel_to_ski_distance": 0.8,
+      "hotel_cover_image": "cover/1002.jpg"
     }
-]
+  ]
+}
